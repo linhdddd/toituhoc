@@ -1,1 +1,1 @@
-###Test
+**Markdown** quá *tuyệt* phải không nào. Cảm ơn [John_Gruber](https://en.wikipedia.org/wiki/John_Gruber).
